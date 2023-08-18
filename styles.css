@@ -17,10 +17,7 @@ div.conteiner {
     justify-content: center;
     border-radius: 20px;
     display: flex;
-}
-
-div.box {
-    align-self: center;
+    align-items: center;
 }
 
 #imagen {
